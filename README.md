@@ -1,6 +1,6 @@
-# CV
+# CV - Professional Work – Before Germany
 
-NETSAT (Private) Limited, Pakistan | January 2011 – March 2018
+**NETSAT (Private) Limited, Pakistan | January 2011 – March 2018**
 
 Project: Pakistan Civil Aviation Authority, PCAA – Nationwide Connectivity | January 2015 – March 2018 | RF Engineer
 
@@ -43,7 +43,7 @@ Key Responsibilities:
   - General Dynamics SATCOM Technologies (7.3m Cassegrain) Ku & C-Band Antenna.
   - ACU (Antenna Control Unit Model 7200 and Digital Tracking Receiver.
   - Advantech Wireless (800W Ku & C Band) SSPB/SSPA/BUC.
-- Achieved: Satellite Communication Certificate from GENERAL DYNAMICS SATCOM Technologies, USA | Nov 2014
+- Achieved: Satellite Communication Certificate from GENERAL DYNAMICS SATCOM Technologies, USA, Nov 2014
 - About Training: Completed hands-on training course for Operation, Maintenance, and M&C of Pakistan Space & Upper Atmosphere Research Commission’s (SUPARCO) 7.3m Ku and C-Band Antenna Systems.
 
 Project: Pakistan Telecommunication Company Limited (PTCL) – Digital Radio Systems (DRS) Connectivity | January 2013 – August 2014 | RF Engineer
