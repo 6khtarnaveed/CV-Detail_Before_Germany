@@ -3,6 +3,7 @@
 NETSAT (Private) Limited, Pakistan | January 2011 – March 2018
 
 Project: Pakistan Civil Aviation Authority, PCAA – Nationwide Connectivity | January 2015 – March 2018 | RF Engineer
+
 Key Responsibilities:
 - Last mile wireless link deployment for business class internet & data connectivity to PCAA, P2P & P2MP & MPLS-WAN deployment & maintenance SLA. High quality & efficient deployment of wireless networks.
 - Manage updated IP address scheme blueprints.
@@ -27,6 +28,7 @@ Key Responsibilities:
   - Memotec – NetPerformer (SDM9230)
 
 Project: SUPARCO – 7.3m Ku & C Band Antenna Installation for Geo-Location System | September – December 2014 | RF & VSAT Engineer
+
 Key Responsibilities:
 - Installation GD SatCom equipment 7.3m Earth Station, Ku & C band with GD SatCom team.
 - Performs the required reflector alignments using optical tooling. Performs balance and focus of sub-reflector system.
@@ -45,6 +47,7 @@ Key Responsibilities:
 - About Training: Completed hands-on training course for Operation, Maintenance, and M&C of Pakistan Space & Upper Atmosphere Research Commission’s (SUPARCO) 7.3m Ku and C-Band Antenna Systems.
 
 Project: Pakistan Telecommunication Company Limited (PTCL) – Digital Radio Systems (DRS) Connectivity | January 2013 – August 2014 | RF Engineer
+
 Key Responsibilities:
 - Last mile wireless link deployment for business class internet connectivity to different organization, P2P & P2MP wireless MAN deployment & maintenance SLA.
 - DRS Project with PTCL for their different DRS clients such as All Banks in Pakistan & independent firms.
@@ -68,6 +71,7 @@ Key Responsibilities:
   - UbiQuity Networks Inc.
 
 Project: Private TV Channel – Digital Satellite News Gathering (DSNG) | March – May 2013 | RF Engineer
+
 Key Responsibilities:
 - Responsible for Live Telecast of Capital TV and the entire live event via Digital Satellite News Gathering (DSNG VAN)
 - Operation & coordination of Studio, PCR, MCR & Recording Room
@@ -86,6 +90,7 @@ Key Responsibilities:
     - Encoders, Up/Down-Converters, IRD, Spectrum Analyzer, Tandberg, Scopus, Mitec, Tiernan
 
 Project: ZONG China Mobile Pakistan – VSAT (Region South) | August 2011 – December 2012 | Network Operation Center (NOC) Engineer
+
 Key Responsibilities:
 - To monitor 24/7 Network of ZONG (South) region sites and escalate, Graph of Sites by using PRTG software.
 - 24/7 technical support on-site, on-call offered including Day to Day troubleshooting & successfully rectification of network issues highlighted.
