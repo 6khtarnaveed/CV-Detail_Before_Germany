@@ -22,10 +22,10 @@ Key Responsibilities:
 - Leading CAA Managed Support Services (MSS team) in South, Central & North region
 - Inspection all Nationwide PCAA sites with CAA team
 - Equipment Skills:
-  - Exalt - ExtendAir G2, 3G/4G LTE
-  - Bridge Wave - 3G/4G LTE
-  - Huawei - RTN-800, 3G/4G LTE
-  - Memotec – NetPerformer (SDM9230)
+  - Exalt ExtendAir G2 - 3G/4G/LTE
+  - Bridge Wave - 3G/4G/LTE
+  - Huawei RTN-800 - 3G/4G/LTE
+  - Memotec NetPerformer - SDM9230
 
 Project: SUPARCO – 7.3m Ku & C Band Antenna Installation for Geo-Location System | September – December 2014 | RF & VSAT Engineer
 
@@ -79,15 +79,27 @@ Key Responsibilities:
 - Audio & Video testing during live telecast, fault diagnostic and on-site troubleshooting
 - Equipment Skills:
   - Operation, Maintenance & Configuration of Teleport Equipment:
-      - Encoder (Tandberg E5720, E5714, Scopus) and Decoder (Tandberg TT1260s, Scopus)
-      - Agilent Spectrum analyzers and RF Antenna (1.2, 1.8 2.4, 3.8M)
+      - Encoder (Tandberg E5720, E5714, Scopus)
+      - Decoder (Tandberg TT1260s, Scopus)
+      - Agilent Spectrum analyzers
+      - RF Antenna (1.2, 1.8 2.4, 3.8M)
   - DSNG Knowledge:
       - AVL technologies 1278KFD 1.2m Motorized Fly & Drive Antenna
       - SNG Uplink & Downlink Operator on Van and Jeep, known as Transportable Earth Stations (TES)
       - Knowledge of component:
-        - Composite, SD-SDI & HD-SDI video, Analog audio, Digital AES, Embedded & Dolby-E audio
+        - Composite
+        - SD-SDI & HD-SDI video
+        - Analog audio
+        - Digital AES
+        - Embedded & Dolby-E audio
   - Hands on RF equipment:
-    - Encoders, Up/Down-Converters, IRD, Spectrum Analyzer, Tandberg, Scopus, Mitec, Tiernan
+    - Encoders
+    - Up/Down-Converters
+    - IRD, Spectrum Analyzer
+    - Tandberg
+    - Scopus
+    - Mitec
+    - Tiernan
 
 Project: ZONG China Mobile Pakistan – VSAT (Region South) | August 2011 – December 2012 | Network Operation Center (NOC) Engineer
 
@@ -99,4 +111,7 @@ Key Responsibilities:
 - To follow up Planned Outages happening in network & Timely escalation of security, legal, theft & RE issues to FOs team
 - Communicate & configure VSAT – COMTECH Satellite Modem (HUB & REMOTE) and REMOTE end modem with the help of Fos
 - Equipment Skills:
-  - BERT Meter (Bit Error Rate Tester), Spectrum Analyzer (Agilent 8562A/E4408B), COMTECH EF Data (CDM625, CDM600 - Satellite Modem), MEMOTEC CX-U Series (RAN Optimization)
+  - BERT Meter (Bit Error Rate Tester)
+  - Spectrum Analyzer (Agilent 8562A/E4408B)
+  - COMTECH EF Data (CDM625, CDM600 - Satellite Modem)
+  - MEMOTEC CX-U Series (RAN Optimization)
